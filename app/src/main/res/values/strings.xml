@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Task List</string>
+    <string name="label_create_task">Criar Tarefa</string>
+    <string name="label_title">Titulo</string>
+    <string name="label_description">Descrição</string>
+    <string name="label_date">Date</string>
+    <string name="label_hour">hour</string>
+    <string name="label_cancel">Cancelar</string>
+    <string name="label_new_task">Criar Tarefa</string>
+    <string name="tasks_one">Tarefas</string>
+    <string name="new_task">Nova Tarefa</string>
+    <string name="quero_saber">Quero saber pq isso não será adicionado pelo usuario</string>
+    <string name="edit">edit</string>
+    <string name="deletar">Deletar</string>
+    <string name="delete">Delete</string>
+    <string name="editar">Editar</string>
+    <string name="label_you_dont_have_tasks">Ops! Você não possui\nenhuma tarefa</string>
+</resources>
